@@ -46,6 +46,7 @@ Canvas for details.
 ## The dataset: 
 
 **Input variables (based on physicochemical tests)**
+
 1 - fixed acidity \
 2 - volatile acidity \
 3 - citric acid \
@@ -56,9 +57,10 @@ Canvas for details.
 8 - density \
 9 - pH \
 10 - sulphates \
-11 - alcohol \
+11 - alcohol 
 
 **Output variable (based on sensory data)**
+
 12 - quality (score between 0 and 10) \
 The plan: Logistic regresson with quality above 7 (>=7) being 1, less than 7 (<7) being 0.  
 
