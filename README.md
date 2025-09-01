@@ -1,5 +1,7 @@
 # RedWine-Quality
 
+FINAL REPORT HERE: https://docs.google.com/document/d/11GDuQHI3UKdGlEq1yq8bBtaLUPh9Pvi0esITDxgMJ0Q/edit?tab=t.0
+
 ## The Assignment:
 
 **Data**
